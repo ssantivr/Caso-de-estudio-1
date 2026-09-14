@@ -1,0 +1,25 @@
+class BiciTaller():
+
+def _init_(self):
+bicicletas = 1200
+estaciones = 40 
+self.bicicleta
+self.estaciones 
+
+def usuario(): 
+reportFalla.bicicleta 
+
+def cargarFlota(archivo):
+Archivo = [BIC-0101, Parque Norte, OPERATIVA, 0
+		   BIC-0412, Universidad, OPERATIVA, 2
+		   BIC-0530, Estadio, OPERATIVA, 0
+		   BIC-0777, Centro, OPERATIVA, 1]
+def buscar(codigo):
+Codigo Bicicleta1 = BIC-0101
+	   Bicicleta2 = BIC-0412
+	   bicicleta3 = BIC-0530
+	   Bicicleta4 = BIC-0777
+
+def reportarFalla(codigo, falla):
+
+def recibirEnTaller(codigo):
